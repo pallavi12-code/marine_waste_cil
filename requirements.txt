@@ -1,0 +1,12 @@
+numpy==1.26.4
+pandas==2.2.2
+Pillow==10.4.0
+opencv-python-headless==4.10.0.84
+matplotlib==3.8.4
+seaborn==0.13.2
+scikit-learn==1.5.1
+torch==2.3.1
+torchvision==0.18.1
+tqdm==4.70.1
+PyYAML==6.0.3
+pytest==8.3.2
